@@ -60,45 +60,45 @@ namespace LibraryDifferentialEquations25Feb2024
                     this.differentialEquationsSolverBaseClass = new DifferentialEquationsSolverRK42_29feb2024<T>(differentialEquations);
                     this.sophisticated = false;
                     break;
-                //case Method.RK5 | Method.Sophisticated:
-                //    this.differentialEquationsSolverBaseClass = new DifferentialEquationsSolverRK5(differentialEquations);
-                //    this.sophisticated = true;
-                //    break;
-                //case Method.RK5 | Method.Crude:
-                //    this.differentialEquationsSolverBaseClass = new DifferentialEquationsSolverRK5(differentialEquations);
-                //    this.sophisticated = false;
-                //    break;
-                //case Method.RK61 | Method.Sophisticated:
-                //    this.differentialEquationsSolverBaseClass = new DifferentialEquationsSolverRK61_5nov2023(differentialEquations);
-                //    this.sophisticated = true;
-                //    break;
-                //case Method.RK61 | Method.Crude:
-                //    this.differentialEquationsSolverBaseClass = new DifferentialEquationsSolverRK61_5nov2023(differentialEquations);
-                //    this.sophisticated = false;
-                //    break;
-                //case Method.RKCV8 | Method.Sophisticated:
-                //    // Sophisticated Runge Kutta Order 8. See page 197 Butcher (2008) (second edition)
-                //    // Order 7 needs 11 stages.
-                //    // Cooper Verner 8
-                //    this.differentialEquationsSolverBaseClass = new DifferentialEquationsSolverRKCV8(differentialEquations);
-                //    this.sophisticated = true;
-                //    break;
-                //case Method.RKCV8 | Method.Crude:
-                //    this.differentialEquationsSolverBaseClass = new DifferentialEquationsSolverRKCV8(differentialEquations);
-                //    this.sophisticated = false;
-                //    break;
-                //case Method.RKCV8:
-                //    this.differentialEquationsSolverBaseClass = new DifferentialEquationsSolverRKCV8(differentialEquations);
-                //    this.sophisticated = true;
-                //    break;
-                //case Method.RK61:
-                //    this.differentialEquationsSolverBaseClass = new DifferentialEquationsSolverRK61_5nov2023(differentialEquations);
-                //    this.sophisticated = true;
-                //    break;
-                //case Method.RK5:
-                //    this.differentialEquationsSolverBaseClass = new DifferentialEquationsSolverRK5(differentialEquations);
-                //    this.sophisticated = true;
-                //    break;
+                case Method.RK5 | Method.Sophisticated:
+                    this.differentialEquationsSolverBaseClass = new DifferentialEquationsSolverRK5_1mar2024<T>(differentialEquations);
+                    this.sophisticated = true;
+                    break;
+                case Method.RK5 | Method.Crude:
+                    this.differentialEquationsSolverBaseClass = new DifferentialEquationsSolverRK5_1mar2024<T>(differentialEquations);
+                    this.sophisticated = false;
+                    break;
+                case Method.RK61 | Method.Sophisticated:
+                    this.differentialEquationsSolverBaseClass = new DifferentialEquationsSolverRK61_1mar2024<T>(differentialEquations);
+                    this.sophisticated = true;
+                    break;
+                case Method.RK61 | Method.Crude:
+                    this.differentialEquationsSolverBaseClass = new DifferentialEquationsSolverRK61_1mar2024<T>(differentialEquations);
+                    this.sophisticated = false;
+                    break;
+                case Method.RKCV8 | Method.Sophisticated:
+                    // Sophisticated Runge Kutta Order 8. See page 197 Butcher (2008) (second edition)
+                    // Order 7 needs 11 stages.
+                    // Cooper Verner 8
+                    this.differentialEquationsSolverBaseClass = new DifferentialEquationsSolverRKCV8_1mar2024<T>(differentialEquations);
+                    this.sophisticated = true;
+                    break;
+                case Method.RKCV8 | Method.Crude:
+                    this.differentialEquationsSolverBaseClass = new DifferentialEquationsSolverRKCV8_1mar2024<T>(differentialEquations);
+                    this.sophisticated = false;
+                    break;
+                case Method.RKCV8:
+                    this.differentialEquationsSolverBaseClass = new DifferentialEquationsSolverRKCV8_1mar2024<T>(differentialEquations);
+                    this.sophisticated = true;
+                    break;
+                case Method.RK61:
+                    this.differentialEquationsSolverBaseClass = new DifferentialEquationsSolverRK61_1mar2024<T>(differentialEquations);
+                    this.sophisticated = true;
+                    break;
+                case Method.RK5:
+                    this.differentialEquationsSolverBaseClass = new DifferentialEquationsSolverRK5_1mar2024<T>(differentialEquations);
+                    this.sophisticated = true;
+                    break;
                 case Method.RK42:
                     this.differentialEquationsSolverBaseClass = new DifferentialEquationsSolverRK42_29feb2024<T>(differentialEquations);
                     this.sophisticated = true;

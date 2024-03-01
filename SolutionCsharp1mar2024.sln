@@ -53,21 +53,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsKeplerCrudeFloat28f
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsKeplerCrudeDouble28feb2024", "WinFormsKeplerCrudeDouble28feb2024\WinFormsKeplerCrudeDouble28feb2024.csproj", "{C0336B98-118B-44C2-84E2-76FB16A1FAF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryDifferentialEquationDog29Feb2024", "LibraryDifferentialEquationDog29Feb2024\LibraryDifferentialEquationDog29Feb2024.csproj", "{2697D977-6E07-4470-BA44-C1012E2BB49E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryDifferentialEquationDog29Feb2024", "LibraryDifferentialEquationDog29Feb2024\LibraryDifferentialEquationDog29Feb2024.csproj", "{2697D977-6E07-4470-BA44-C1012E2BB49E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDifferentialEquationDogEuler_29Feb2024", "ConsoleDifferentialEquationDogEuler_29Feb2024\ConsoleDifferentialEquationDogEuler_29Feb2024.csproj", "{B1255B97-3E54-4713-81AD-6425FE146C1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDifferentialEquationDogEuler_29Feb2024", "ConsoleDifferentialEquationDogEuler_29Feb2024\ConsoleDifferentialEquationDogEuler_29Feb2024.csproj", "{B1255B97-3E54-4713-81AD-6425FE146C1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDifferentialEquationDogRK21_29Feb2024", "ConsoleDifferentialEquationDogRK21_29Feb2024\ConsoleDifferentialEquationDogRK21_29Feb2024.csproj", "{8DB03BDF-C041-4F9C-B27A-1984606B2D52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDifferentialEquationDogRK21_29Feb2024", "ConsoleDifferentialEquationDogRK21_29Feb2024\ConsoleDifferentialEquationDogRK21_29Feb2024.csproj", "{8DB03BDF-C041-4F9C-B27A-1984606B2D52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDifferentialEquationDogRK22_29Feb2024", "ConsoleDifferentialEquationDogRK22_29Feb2024\ConsoleDifferentialEquationDogRK22_29Feb2024.csproj", "{F6795318-4BFB-472A-BFC2-BD157D9D5DC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDifferentialEquationDogRK22_29Feb2024", "ConsoleDifferentialEquationDogRK22_29Feb2024\ConsoleDifferentialEquationDogRK22_29Feb2024.csproj", "{F6795318-4BFB-472A-BFC2-BD157D9D5DC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDifferentialEquationDogRK31_29Feb2024", "ConsoleDifferentialEquationDogRK31_29Feb2024\ConsoleDifferentialEquationDogRK31_29Feb2024.csproj", "{DE695381-1363-42FA-AAB6-5A262033FAE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDifferentialEquationDogRK31_29Feb2024", "ConsoleDifferentialEquationDogRK31_29Feb2024\ConsoleDifferentialEquationDogRK31_29Feb2024.csproj", "{DE695381-1363-42FA-AAB6-5A262033FAE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDifferentialEquationDogRK41_29Feb2024", "ConsoleDifferentialEquationDogRK41_29Feb2024\ConsoleDifferentialEquationDogRK41_29Feb2024.csproj", "{B8BB8D2F-BFB3-4DDB-8382-33B964B9EE4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDifferentialEquationDogRK41_29Feb2024", "ConsoleDifferentialEquationDogRK41_29Feb2024\ConsoleDifferentialEquationDogRK41_29Feb2024.csproj", "{B8BB8D2F-BFB3-4DDB-8382-33B964B9EE4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDifferentialEquationDogRK42_29Feb2024", "ConsoleDifferentialEquationDogRK42_29Feb2024\ConsoleDifferentialEquationDogRK42_29Feb2024.csproj", "{E35C9D3C-6F98-45DE-B117-D2495B6CB23A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDifferentialEquationDogRK42_29Feb2024", "ConsoleDifferentialEquationDogRK42_29Feb2024\ConsoleDifferentialEquationDogRK42_29Feb2024.csproj", "{E35C9D3C-6F98-45DE-B117-D2495B6CB23A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsDogTextBox29Feb2024", "WinFormsDogTextBox29Feb2024\WinFormsDogTextBox29Feb2024.csproj", "{00A15BF2-63BF-4989-9DDB-1C93EA283C41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsDogTextBox29Feb2024", "WinFormsDogTextBox29Feb2024\WinFormsDogTextBox29Feb2024.csproj", "{00A15BF2-63BF-4989-9DDB-1C93EA283C41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDifferentialEquationKeplerRK5_1mar2024", "ConsoleDifferentialEquationKeplerRK5_1mar2024\ConsoleDifferentialEquationKeplerRK5_1mar2024.csproj", "{004A286C-313F-4D36-B78C-5A29F5A8184F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +209,10 @@ Global
 		{00A15BF2-63BF-4989-9DDB-1C93EA283C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00A15BF2-63BF-4989-9DDB-1C93EA283C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00A15BF2-63BF-4989-9DDB-1C93EA283C41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{004A286C-313F-4D36-B78C-5A29F5A8184F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004A286C-313F-4D36-B78C-5A29F5A8184F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004A286C-313F-4D36-B78C-5A29F5A8184F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004A286C-313F-4D36-B78C-5A29F5A8184F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
