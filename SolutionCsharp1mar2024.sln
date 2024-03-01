@@ -71,6 +71,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsDogTextBox29Feb2024
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDifferentialEquationKeplerRK5_1mar2024", "ConsoleDifferentialEquationKeplerRK5_1mar2024\ConsoleDifferentialEquationKeplerRK5_1mar2024.csproj", "{004A286C-313F-4D36-B78C-5A29F5A8184F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDifferentialEquationKeplerRK5Crude_1mar2024", "ConsoleDifferentialEquationKeplerRK5Crude_1mar2024\ConsoleDifferentialEquationKeplerRK5Crude_1mar2024.csproj", "{433DCE87-FCD9-4854-B1B3-B0FCAA7A0DAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{004A286C-313F-4D36-B78C-5A29F5A8184F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{004A286C-313F-4D36-B78C-5A29F5A8184F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{004A286C-313F-4D36-B78C-5A29F5A8184F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{433DCE87-FCD9-4854-B1B3-B0FCAA7A0DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433DCE87-FCD9-4854-B1B3-B0FCAA7A0DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433DCE87-FCD9-4854-B1B3-B0FCAA7A0DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433DCE87-FCD9-4854-B1B3-B0FCAA7A0DAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
