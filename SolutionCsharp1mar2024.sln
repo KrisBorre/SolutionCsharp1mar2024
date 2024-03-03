@@ -69,17 +69,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDifferentialEquation
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsDogTextBox29Feb2024", "WinFormsDogTextBox29Feb2024\WinFormsDogTextBox29Feb2024.csproj", "{00A15BF2-63BF-4989-9DDB-1C93EA283C41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDifferentialEquationKeplerRK5_1mar2024", "ConsoleDifferentialEquationKeplerRK5_1mar2024\ConsoleDifferentialEquationKeplerRK5_1mar2024.csproj", "{004A286C-313F-4D36-B78C-5A29F5A8184F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDifferentialEquationKeplerRK5_1mar2024", "ConsoleDifferentialEquationKeplerRK5_1mar2024\ConsoleDifferentialEquationKeplerRK5_1mar2024.csproj", "{004A286C-313F-4D36-B78C-5A29F5A8184F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDifferentialEquationKeplerRK5Crude_1mar2024", "ConsoleDifferentialEquationKeplerRK5Crude_1mar2024\ConsoleDifferentialEquationKeplerRK5Crude_1mar2024.csproj", "{433DCE87-FCD9-4854-B1B3-B0FCAA7A0DAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDifferentialEquationKeplerRK5Crude_1mar2024", "ConsoleDifferentialEquationKeplerRK5Crude_1mar2024\ConsoleDifferentialEquationKeplerRK5Crude_1mar2024.csproj", "{433DCE87-FCD9-4854-B1B3-B0FCAA7A0DAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDifferentialEquationKeplerRK61_1mar2024", "ConsoleDifferentialEquationKeplerRK61_1mar2024\ConsoleDifferentialEquationKeplerRK61_1mar2024.csproj", "{A45B028D-C02B-4D0F-B3D8-8A4EE8E2E8F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDifferentialEquationKeplerRK61_1mar2024", "ConsoleDifferentialEquationKeplerRK61_1mar2024\ConsoleDifferentialEquationKeplerRK61_1mar2024.csproj", "{A45B028D-C02B-4D0F-B3D8-8A4EE8E2E8F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDifferentialEquationKeplerRKCV8_1mar2024", "ConsoleDifferentialEquationKeplerRKCV8_1mar2024\ConsoleDifferentialEquationKeplerRKCV8_1mar2024.csproj", "{4BC66E42-4686-4B32-9395-F7CD4E1792F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDifferentialEquationKeplerRKCV8_1mar2024", "ConsoleDifferentialEquationKeplerRKCV8_1mar2024\ConsoleDifferentialEquationKeplerRKCV8_1mar2024.csproj", "{4BC66E42-4686-4B32-9395-F7CD4E1792F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsKeplerEllipticOrbit1mar2024", "WinFormsKeplerEllipticOrbit1mar2024\WinFormsKeplerEllipticOrbit1mar2024.csproj", "{0839D614-805D-4306-8141-731BCD024695}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsKeplerEllipticOrbit1mar2024", "WinFormsKeplerEllipticOrbit1mar2024\WinFormsKeplerEllipticOrbit1mar2024.csproj", "{0839D614-805D-4306-8141-731BCD024695}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsKepler1mar2024", "WinFormsKepler1mar2024\WinFormsKepler1mar2024.csproj", "{D13B21D5-738E-49D2-9E8F-5F549AD13E51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsKepler1mar2024", "WinFormsKepler1mar2024\WinFormsKepler1mar2024.csproj", "{D13B21D5-738E-49D2-9E8F-5F549AD13E51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsKepler2mar2024", "WinFormsKepler2mar2024\WinFormsKepler2mar2024.csproj", "{53736B7B-BB46-4918-AD50-74C5C7303E1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -243,6 +245,10 @@ Global
 		{D13B21D5-738E-49D2-9E8F-5F549AD13E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D13B21D5-738E-49D2-9E8F-5F549AD13E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D13B21D5-738E-49D2-9E8F-5F549AD13E51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53736B7B-BB46-4918-AD50-74C5C7303E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53736B7B-BB46-4918-AD50-74C5C7303E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53736B7B-BB46-4918-AD50-74C5C7303E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53736B7B-BB46-4918-AD50-74C5C7303E1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
