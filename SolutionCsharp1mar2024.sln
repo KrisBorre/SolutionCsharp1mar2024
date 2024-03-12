@@ -87,11 +87,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryRelativisticOscillat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleRelativisticOscillator1mar2024", "ConsoleRelativisticOscillator1mar2024\ConsoleRelativisticOscillator1mar2024.csproj", "{76736DF1-CEE0-403B-8D38-6DB344AD4232}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsRelativisticOscillatorTextBox3mar2024", "WinFormsRelativisticOscillatorTextBox3mar2024\WinFormsRelativisticOscillatorTextBox3mar2024.csproj", "{CF353BB4-B9BB-4A8B-BDF7-9015D4EFBB3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsRelativisticOscillatorTextBox3mar2024", "WinFormsRelativisticOscillatorTextBox3mar2024\WinFormsRelativisticOscillatorTextBox3mar2024.csproj", "{CF353BB4-B9BB-4A8B-BDF7-9015D4EFBB3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsRelativisticOscillatorTextBox4mar2024", "WinFormsRelativisticOscillatorTextBox4mar2024\WinFormsRelativisticOscillatorTextBox4mar2024.csproj", "{9C55DB9B-AA12-4782-8A96-8C845E9E422C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsRelativisticOscillatorTextBox4mar2024", "WinFormsRelativisticOscillatorTextBox4mar2024\WinFormsRelativisticOscillatorTextBox4mar2024.csproj", "{9C55DB9B-AA12-4782-8A96-8C845E9E422C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsRelativisticOscillatorTextBox5mar2024", "WinFormsRelativisticOscillatorTextBox5mar2024\WinFormsRelativisticOscillatorTextBox5mar2024.csproj", "{66EBE25B-E151-4313-9963-3B269DF69327}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsRelativisticOscillatorTextBox5mar2024", "WinFormsRelativisticOscillatorTextBox5mar2024\WinFormsRelativisticOscillatorTextBox5mar2024.csproj", "{66EBE25B-E151-4313-9963-3B269DF69327}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryHarmonicOscillatorMomentum6mar2024", "LibraryHarmonicOscillatorMomentum6mar2024\LibraryHarmonicOscillatorMomentum6mar2024.csproj", "{26C2A9A6-294D-4EB7-BE91-671FF713E2D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryHarmonicOscillatorVelocity7mar2024", "LibraryHarmonicOscillatorVelocity7mar2024\LibraryHarmonicOscillatorVelocity7mar2024.csproj", "{06F39448-B08E-4A3B-AF04-DA877E934199}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsHarmonicOscillatorMomentumTextBox6mar2024", "WinFormsHarmonicOscillatorMomentumTextBox6mar2024\WinFormsHarmonicOscillatorMomentumTextBox6mar2024.csproj", "{9FFA3A85-8A62-444D-ADA7-58589FE86DEF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsHarmonicOscillatorVelocityTextBox7mar2024", "WinFormsHarmonicOscillatorVelocityTextBox7mar2024\WinFormsHarmonicOscillatorVelocityTextBox7mar2024.csproj", "{02D016D8-009B-425E-8138-BB4B2C6AC25C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryPendulum8mar2024", "LibraryPendulum8mar2024\LibraryPendulum8mar2024.csproj", "{7520759A-2C2D-4DE6-B95D-B3918F257ED3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsPendulum8mar2024", "WinFormsPendulum8mar2024\WinFormsPendulum8mar2024.csproj", "{575871D0-DFBA-4C99-9420-246DC1CD9900}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsPendulum9mar2024", "WinFormsPendulum9mar2024\WinFormsPendulum9mar2024.csproj", "{58CA43BB-5455-4326-96A7-5B2606E949C5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsKeplerRungeKuttaOrders10mar2024", "WinFormsKeplerRungeKuttaOrders10mar2024\WinFormsKeplerRungeKuttaOrders10mar2024.csproj", "{784CEDE7-21A8-4D04-A256-383AC3EE5106}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsKeplerRungeKuttaOrders11mar2024", "WinFormsKeplerRungeKuttaOrders11mar2024\WinFormsKeplerRungeKuttaOrders11mar2024.csproj", "{7D6B12BF-09FF-4046-8724-6DDAF7204E8A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryAbstractFactoryDesignPattern12mar2024", "LibraryAbstractFactoryDesignPattern8mar2024\LibraryAbstractFactoryDesignPattern12mar2024.csproj", "{154DF906-1792-4FA3-95DE-95BB75802D77}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAbstractFactory12mar2024", "ConsoleAbstractFactory12mar2024\ConsoleAbstractFactory12mar2024.csproj", "{05F7CD1C-CB7D-4D6E-B87E-EA678ED86032}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -279,6 +301,50 @@ Global
 		{66EBE25B-E151-4313-9963-3B269DF69327}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66EBE25B-E151-4313-9963-3B269DF69327}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66EBE25B-E151-4313-9963-3B269DF69327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26C2A9A6-294D-4EB7-BE91-671FF713E2D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C2A9A6-294D-4EB7-BE91-671FF713E2D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C2A9A6-294D-4EB7-BE91-671FF713E2D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C2A9A6-294D-4EB7-BE91-671FF713E2D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06F39448-B08E-4A3B-AF04-DA877E934199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F39448-B08E-4A3B-AF04-DA877E934199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F39448-B08E-4A3B-AF04-DA877E934199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F39448-B08E-4A3B-AF04-DA877E934199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FFA3A85-8A62-444D-ADA7-58589FE86DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FFA3A85-8A62-444D-ADA7-58589FE86DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FFA3A85-8A62-444D-ADA7-58589FE86DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FFA3A85-8A62-444D-ADA7-58589FE86DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02D016D8-009B-425E-8138-BB4B2C6AC25C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D016D8-009B-425E-8138-BB4B2C6AC25C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D016D8-009B-425E-8138-BB4B2C6AC25C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D016D8-009B-425E-8138-BB4B2C6AC25C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7520759A-2C2D-4DE6-B95D-B3918F257ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7520759A-2C2D-4DE6-B95D-B3918F257ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7520759A-2C2D-4DE6-B95D-B3918F257ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7520759A-2C2D-4DE6-B95D-B3918F257ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{575871D0-DFBA-4C99-9420-246DC1CD9900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575871D0-DFBA-4C99-9420-246DC1CD9900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575871D0-DFBA-4C99-9420-246DC1CD9900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575871D0-DFBA-4C99-9420-246DC1CD9900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58CA43BB-5455-4326-96A7-5B2606E949C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CA43BB-5455-4326-96A7-5B2606E949C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CA43BB-5455-4326-96A7-5B2606E949C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CA43BB-5455-4326-96A7-5B2606E949C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{784CEDE7-21A8-4D04-A256-383AC3EE5106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784CEDE7-21A8-4D04-A256-383AC3EE5106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784CEDE7-21A8-4D04-A256-383AC3EE5106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784CEDE7-21A8-4D04-A256-383AC3EE5106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D6B12BF-09FF-4046-8724-6DDAF7204E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D6B12BF-09FF-4046-8724-6DDAF7204E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D6B12BF-09FF-4046-8724-6DDAF7204E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D6B12BF-09FF-4046-8724-6DDAF7204E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{154DF906-1792-4FA3-95DE-95BB75802D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{154DF906-1792-4FA3-95DE-95BB75802D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{154DF906-1792-4FA3-95DE-95BB75802D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{154DF906-1792-4FA3-95DE-95BB75802D77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F7CD1C-CB7D-4D6E-B87E-EA678ED86032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F7CD1C-CB7D-4D6E-B87E-EA678ED86032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F7CD1C-CB7D-4D6E-B87E-EA678ED86032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F7CD1C-CB7D-4D6E-B87E-EA678ED86032}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
