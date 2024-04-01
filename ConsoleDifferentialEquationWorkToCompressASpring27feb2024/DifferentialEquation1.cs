@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using LibraryDifferentialEquations25Feb2024;
+﻿using LibraryDifferentialEquations25Feb2024;
 
 namespace ConsoleDifferentialEquationWorkToCompressASpring27feb2024
 {
